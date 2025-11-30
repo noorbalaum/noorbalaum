@@ -41,8 +41,10 @@ Building full-stack mobile applications & backend systems for real users.
 ## 💳 Payment Gateway Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=stripe" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="70" />
+  <!-- Stripe -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Stripe_Logo%2C_revised_2016.svg" height="32" />
+  <!-- PayPal -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" height="32" />
 </p>
 
 ---
