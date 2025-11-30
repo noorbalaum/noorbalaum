@@ -1,42 +1,51 @@
-# 👋 Hi, I'm Noor Balaum
+# noorbalaum / README.md
 
-I'm a self-taught Full-Stack Developer with 2+ years of experience building real-world applications using **React Native** and **JavaScript backend** (Node.js).
+I do:
 
-I specialize in creating mobile-first experiences, integrating APIs, and developing backend logic with tools like **Firebase**, **Express**, **Cloudinary**, and **Stripe**.
-
-> 🚫 No university degree. Just passion, consistent learning, and hands-on work.
-
----
-
-## 🚀 Tech Stack
-
-- **Frontend:** React Native, Expo, Tailwind CSS
-- **Backend:** Node.js, Express.js, Firebase Functions
-- **Database:** Firebase Firestore, MongoDB
-- **Tools & APIs:** Cloudinary, Stripe, PayPal, REST APIs
-- **Other:** Git, GitHub, Postman, VS Code
+🛠️ Mobile Apps that scale.  
+⚙️ APIs that actually work.  
+☁️ Cloud systems that stay online.
 
 ---
 
-## 📂 My Projects
-
-You’ll find projects here ranging from:
-- Real-time mobile apps
-- Payment gateway integrations
-- Cloud-based media uploads
-- Backend services with Firebase or Node.js
-
-> Most of my work is built from scratch — no templates, just code.
+### Currently, I am…
+Building full-stack mobile applications & backend systems for real users.
 
 ---
 
-## 📫 Let's Connect
+## 🧰 Languages & Frameworks
 
-- LinkedIn: [linkedin.com/in/noor-balaum-396a33368](https://www.linkedin.com/in/noor-balaum-396a33368/)
-- Email: noorbalaum0@gmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,expo,nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
+</p>
+
+---
+
+## 💳 Payment Gateway Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=stripe" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" />
+</p>
+
+---
+
+## 🧪 Tools & Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cloudinary" />
+</p>
 
 ---
 
 ## 💡 Fun Fact
 
-I believe great developers aren’t born in universities — they’re built in code editors. 💻🔥
+Great developers aren’t born — they’re built in code editors. 💻🔥
